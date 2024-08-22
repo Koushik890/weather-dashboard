@@ -49,6 +49,7 @@ You need to add your own ```OpenWeatherMap API``` key to the project to make it 
 
 Below is a screen recording demonstrating the Weather Dashboard in action:
 
-[Weather Dashboard Screen Recording](https://github.com/Koushik890/weather-dashboard/blob/main/Demonstration.mp4)
+[![Watch the demonstration video](https://img.youtube.com/vi/RHSmba39bf0/maxresdefault.jpg)](https://youtu.be/RHSmba39bf0)
+
 
 
